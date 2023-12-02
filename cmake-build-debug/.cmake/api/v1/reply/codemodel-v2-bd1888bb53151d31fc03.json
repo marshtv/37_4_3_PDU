@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "37_4_3_PDU",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "37_4_3_PDU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-37_4_3_PDU-Debug-19942ed8dc42eeb8aa22.json",
+					"name" : "37_4_3_PDU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "37_4_3_PDU_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-37_4_3_PDU_autogen-Debug-0bbdd97a5fc88b920a2d.json",
+					"name" : "37_4_3_PDU_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "37_4_3_PDU_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-37_4_3_PDU_autogen_timestamp_deps-Debug-94626a98a32b29ab2df9.json",
+					"name" : "37_4_3_PDU_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug",
+		"source" : "F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

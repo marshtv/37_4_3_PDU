@@ -1,0 +1,98 @@
+# ninja log v5
+2	304	7232503018943433	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+2	304	7232503018943433	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+2	304	7232503018943433	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+2	304	7232503018943433	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+4789	5599	7232503067015537	37_4_3_PDU.exe	8c854f0718d2c665
+304	376	7232503020212136	CMakeFiles/37_4_3_PDU.dir/37_4_3_PDU_autogen/mocs_compilation.cpp.obj	ccd13d365caff3e8
+310	4782	7232503064253636	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+17	784	7232535689837343	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+17	784	7232535689837343	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+17	784	7232535689837343	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+17	784	7232535689837343	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+793	5370	7232535736378144	CMakeFiles/37_4_3_PDU.dir/37_4_3_PDU_autogen/mocs_compilation.cpp.obj	ccd13d365caff3e8
+787	5639	7232535739085339	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+5640	6410	7232535741773309	37_4_3_PDU.exe	8c854f0718d2c665
+15	223	7232537165957672	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+15	223	7232537165957672	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+15	223	7232537165957672	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+15	223	7232537165957672	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+235	4904	7232537212779396	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+4904	5369	7232537215126134	37_4_3_PDU.exe	8c854f0718d2c665
+19	193	7232537413501469	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+19	193	7232537413501469	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+19	193	7232537413501469	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+19	193	7232537413501469	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+204	4812	7232537459693850	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+4812	5269	7232537462052748	37_4_3_PDU.exe	8c854f0718d2c665
+18	193	7232538020326156	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+18	193	7232538020326156	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+18	193	7232538020326156	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+18	193	7232538020326156	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+204	4784	7232538066238822	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+4784	5260	7232538068656338	37_4_3_PDU.exe	8c854f0718d2c665
+16	217	7232539128630452	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+16	217	7232539128630452	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+16	217	7232539128630452	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+16	217	7232539128630452	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+228	4836	7232539174812860	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+4836	5294	7232539177200401	37_4_3_PDU.exe	8c854f0718d2c665
+18	216	7232539535853690	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+18	216	7232539535853690	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+18	216	7232539535853690	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+18	216	7232539535853690	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+228	4855	7232539582255826	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+4856	5343	7232539584703303	37_4_3_PDU.exe	8c854f0718d2c665
+16	779	7232564551815360	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+16	779	7232564551815360	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+16	779	7232564551815360	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+16	779	7232564551815360	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+786	5435	7232564599116606	CMakeFiles/37_4_3_PDU.dir/37_4_3_PDU_autogen/mocs_compilation.cpp.obj	ccd13d365caff3e8
+779	5726	7232564602003629	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+5727	6185	7232564604441116	37_4_3_PDU.exe	8c854f0718d2c665
+21	882	7232565935327842	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+21	882	7232565935327842	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+21	882	7232565935327842	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+21	882	7232565935327842	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+890	6112	7232565988572955	CMakeFiles/37_4_3_PDU.dir/37_4_3_PDU_autogen/mocs_compilation.cpp.obj	ccd13d365caff3e8
+883	6314	7232565990590870	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+6315	6791	7232565993008375	37_4_3_PDU.exe	8c854f0718d2c665
+19	249	7232567650152353	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+19	249	7232567650152353	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+19	249	7232567650152353	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+19	249	7232567650152353	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+261	5202	7232567699671313	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+5202	5683	7232567702308593	37_4_3_PDU.exe	8c854f0718d2c665
+16	793	7232594295112007	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+16	793	7232594295112007	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+16	793	7232594295112007	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+16	793	7232594295112007	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+800	5396	7232594341943722	CMakeFiles/37_4_3_PDU.dir/37_4_3_PDU_autogen/mocs_compilation.cpp.obj	ccd13d365caff3e8
+793	5682	7232594344810779	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+15	740	7232595700980990	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+15	740	7232595700980990	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+15	740	7232595700980990	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+15	740	7232595700980990	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+740	5295	7232595747213326	CMakeFiles/37_4_3_PDU.dir/37_4_3_PDU_autogen/mocs_compilation.cpp.obj	ccd13d365caff3e8
+746	5581	7232595750087097	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+17	754	7232600109507715	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+17	754	7232600109507715	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+17	754	7232600109507715	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+17	754	7232600109507715	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+760	5420	7232600156888859	CMakeFiles/37_4_3_PDU.dir/37_4_3_PDU_autogen/mocs_compilation.cpp.obj	ccd13d365caff3e8
+754	5731	7232600159985673	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+5731	6211	7232600162363222	37_4_3_PDU.exe	8c854f0718d2c665
+21	800	7232601356748167	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+21	800	7232601356748167	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+21	800	7232601356748167	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+21	800	7232601356748167	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+807	5591	7232601405378025	CMakeFiles/37_4_3_PDU.dir/37_4_3_PDU_autogen/mocs_compilation.cpp.obj	ccd13d365caff3e8
+800	5864	7232601408095233	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+5864	6340	7232601410722508	37_4_3_PDU.exe	8c854f0718d2c665
+15	753	7232607622753333	37_4_3_PDU_autogen/timestamp	49542069a88925b8
+15	753	7232607622753333	37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+15	753	7232607622753333	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/timestamp	49542069a88925b8
+15	753	7232607622753333	F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/37_4_3_PDU_autogen/mocs_compilation.cpp	49542069a88925b8
+753	5475	7232607670689794	CMakeFiles/37_4_3_PDU.dir/37_4_3_PDU_autogen/mocs_compilation.cpp.obj	ccd13d365caff3e8
+760	5748	7232607673406954	CMakeFiles/37_4_3_PDU.dir/main.cpp.obj	a47d1d48fe2c1264
+5748	6231	7232607675921153	37_4_3_PDU.exe	8c854f0718d2c665

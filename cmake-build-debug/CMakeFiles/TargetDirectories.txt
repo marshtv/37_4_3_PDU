@@ -1,0 +1,5 @@
+F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/CMakeFiles/37_4_3_PDU.dir
+F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/CMakeFiles/37_4_3_PDU_autogen_timestamp_deps.dir
+F:/__C++/Skillbox/37 Qt_next_level/37_4_3_PDU/cmake-build-debug/CMakeFiles/37_4_3_PDU_autogen.dir
